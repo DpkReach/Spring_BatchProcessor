@@ -1,6 +1,7 @@
 # Spring Batch Demo
 
-This is a sample Spring Boot application that demonstrates Spring Batch functionality with an in-memory H2 database.
+This is a sample Spring Boot application that demonstrates Spring Batch functionality with an in-memory H2 database. 
+The input batch file will be processed in batches and the user can also (Create/Edit/Delete/Modify) them from UI 
 
 ## Features
 
